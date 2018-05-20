@@ -1,0 +1,13 @@
+.root {
+	height: 60px;
+	width: 100%;
+	display: flex;
+	background-color: #990ae3;
+	color: white;
+	text-align: center;
+}
+
+.root h3 {
+	height: 100%;
+	margin-left: 30px;
+}
