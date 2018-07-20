@@ -13,6 +13,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header />
+        <p> HI </p>
         <div className="content">
           <FileUpload />
             <br />
